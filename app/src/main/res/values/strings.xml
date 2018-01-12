@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Tour Guide </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="text_about"><![CDATA[
+        <H3>The Greater Cairo Area (GCA) <H3>
+        <H5> El Qāhira El Kobrā</H5>
+          is the largest metropolitan area in Egypt and the largest urban area in Africa. <br/><br/>
+          consisting of 3 Big Governrate<br/><br/>
+          <b> Cairo: </b>  Helwan , Nasr City , 5th Setlemet , Old Egypt <br/><br/>
+          <b> Giza: </b>6th of October, Sheikh Zayed City , Dokki , Al Manawat  <br/><br/>
+          <b> Qalyubia: </b> Shubra El Kheima and Obour <br/><br/>
+          <b> Total population </b> estimated at 20,500,000 (as of 2012)<br/>
+          <b> Area:</b> 1,709 km2  <br/>
+          <b> Density: </b>10,400/km2. <br/>]]>
+    </string>
+
+    <!-- Tabs -->
+    <string name="About">About</string>
+    <string name="Malls">Malls</string>
+    <string name="Clubs">Clubs</string>
+    <string name="Resturants">Resturants</string>
+
+    <!-- Malls -->
+    <!-- City star -->
+    <string name="citystarName">City Stars</string>
+    <string name="citystarDesc">Shopping Mall</string>
+    <string name="citystarLocation">https://www.google.com.eg/maps/place/%D8%B3%D9%8A%D8%AA%D9%8A+%D8%B3%D8%AA%D8%A7%D8%B1%D8%B2+%D9%87%D9%84%D9%8A%D9%88%D8%A8%D9%88%D9%84%D9%8A%D8%B3+-+Citystars+Heliopolis%E2%80%AD/@30.072979,31.3482387,17z/data=!3m1!4b1!4m5!3m4!1s0x145815f8139c47a3:0xc1744516bae86a18!8m2!3d30.072979!4d31.34605</string>
+    <!-- Cairo Festival -->
+    <string name="cairofestName">Cairo Festival Mall</string>
+    <string name="cairofestDesc">Shopping Mall</string>
+    <string name="cairofestLocation">https://www.google.com.eg/maps/place/%D9%83%D8%A7%D9%8A%D8%B1%D9%88+%D9%81%D8%A7%D8%B3%D8%AA%D9%8A%D9%81%D8%A7%D9%84+%D8%B3%D9%8A%D8%AA%D9%8A+%D9%85%D9%88%D9%84%E2%80%AD/@30.0289498,31.4107969,17z/data=!3m1!4b1!4m5!3m4!1s0x14583cf12a050661:0x8111983c84579420!8m2!3d30.0289498!4d31.4086082</string>
+
+    <!-- Clubs -->
+    <!-- Al Ahly -->
+    <string name="alhlyName">Al Ahly Sc</string>
+    <string name="alhlyDesc">Sport Club</string>
+    <string name="alahlyLocation">https://www.google.com.eg/maps/place/%D8%A7%D9%84%D9%86%D8%A7%D8%AF%D9%8A+%D8%A7%D9%84%D8%A7%D9%87%D9%84%D9%8A%E2%80%AD/@30.0451657,31.2234658,17z/data=!4m5!3m4!1s0x145840d0c4fffd59:0x3fe9d1ae6ff9c790!8m2!3d30.0452609!4d31.2203976</string>
+
+    <!-- El Zamalek -->
+    <string name="elzamalekName">El Zamalek Sc</string>
+    <string name="elzamalekDesc">Sport Club</string>
+    <string name="elzamalekLocation">https://www.google.com.eg/maps/place/%D9%86%D8%A7%D8%AF%D9%8A+%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83+%D9%84%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8+%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9%E2%80%AD/@30.0583475,31.207003,17z/data=!4m13!1m7!3m6!1s0x1458413cc84c61f9:0x1ce408039f6a5e15!2z2YbYp9iv2Yog2KfZhNiy2YXYp9mE2YPYjCDYrNiy2YrYsdipINmF2YrYqiDYudmC2KjYqdiMINin2YTYudis2YjYstip2Iwg2KfZhNis2YrYstip!3b1!8m2!3d30.0583475!4d31.2048143!3m4!1s0x1458413d260b7613:0xf2a117ba13e300fe!8m2!3d30.0600187!4d31.2046024</string>
+
+    <!-- Resturants -->
+    <!-- Sobhy Kaber -->
+    <string name="sobhyName">Sobhy Kaber</string>
+    <string name="sobhyDesc">popular restaurant </string>
+    <string name="sobhyLocation">https://www.google.com.eg/maps/place/%D9%85%D8%B7%D8%B9%D9%85+%D8%B5%D8%A8%D8%AD%D9%8A+%D9%83%D8%A7%D8%A8%D8%B1+%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%E2%80%AD/@30.0838284,31.2365729,17z/data=!4m12!1m6!3m5!1s0x1458405c9b618db3:0x30b4bd05b5136d08!2z2YXYt9i52YUg2LXYqNit2Yog2YPYp9io2LEg2KfZhNis2K_Zitiv!8m2!3d30.0838284!4d31.2343842!3m4!1s0x1458405c9b618db3:0x30b4bd05b5136d08!8m2!3d30.0838284!4d31.2343842</string>
+
+    <!-- Kansas -->
+    <string name="kansasName">Kansas</string>
+    <string name="kansasDesc">Kansas Fried Chicken</string>
+    <string name="kansas">https://www.google.com.eg/maps/place/Kansas+Fried+Chicken/@30.1050115,31.3765215,15.98z/data=!4m5!3m4!1s0x1458166b9311515d:0xfcd6afa21b184658!8m2!3d30.105059!4d31.372247</string>
+</resources>
